@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "안해람"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/안해람의 아바타.jpg"
   bio              : "끊임없는 탐구, 끊임없는 궁금증"
   location         : "대한민국, 성남"
   email            : "21-20218@hafs.hs.kr"
